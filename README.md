@@ -15,6 +15,6 @@
 # Дополнительно
 
 - Это внешняя обработка добавляющая команду объекту Справочники.ЧекККМ (рекоментовано использовать из формы списка)
-![image](https://github.com/KistanovSerhii/TicketAdmin1S/assets/28355711/5da2962f-a827-4192-b10e-add5f1f75097)
+![image](https://github.com/KistanovSerhii/TicketAdmin1S/assets/28355711/281b9f61-e3c6-4253-ad03-477a92d7dcb1)
 
-![image](https://github.com/KistanovSerhii/TicketAdmin1S/assets/28355711/cfd7863f-0a53-4f30-b793-2b4fdcc6cc99)
+![image](https://github.com/KistanovSerhii/TicketAdmin1S/assets/28355711/4cb4718e-acb9-45b4-ac0d-9f3c6d3732aa)
